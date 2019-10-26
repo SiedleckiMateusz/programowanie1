@@ -1,4 +1,4 @@
-package pl.mateusz.siedlecki.programowanie1.colletions;
+package pl.mateusz.siedlecki.programowanie1.colletions.StackAndQueue;
 
 public class Node<T>{
     private T value;

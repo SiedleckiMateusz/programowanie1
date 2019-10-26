@@ -1,4 +1,4 @@
-package pl.mateusz.siedlecki.programowanie1.colletions;
+package pl.mateusz.siedlecki.programowanie1.colletions.StackAndQueue;
 
 public interface StackQueue<T> {
     //dodanie elementu
