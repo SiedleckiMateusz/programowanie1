@@ -6,7 +6,7 @@ public interface List<T> {
     void addAsFirst(T v);
     void addAfter(T v,int index);
     boolean isEmpty();
-    void remove(T v);
+    void remove(int index);
     void removeFirst();
     void removeLast();
     T getAt(int index);

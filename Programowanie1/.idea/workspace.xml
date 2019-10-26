@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b130b2d-c2a1-4591-80dc-70c823a3515f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/colletions/Lists/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/colletions/Lists/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/colletions/Lists/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/colletions/StackAndQueue/Queue.java" afterDir="false" />
+    <list default="true" id="3b130b2d-c2a1-4591-80dc-70c823a3515f" name="Default Changelist" comment="Update for changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programowanie1/pl/mateusz/siedlecki/programowanie1/Sortowanie/Matrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programowanie1/pl/mateusz/siedlecki/programowanie1/colletions/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programowanie1/pl/mateusz/siedlecki/programowanie1/colletions/Stack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programowanie1/pl/mateusz/siedlecki/programowanie1/colletions/StackQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/colletions/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/colletions/StackAndQueue/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/colletions/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/colletions/StackAndQueue/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/colletions/StackQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/colletions/StackAndQueue/StackQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programowanie1/pl/mateusz/siedlecki/programowanie1/colletions/Lists/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programowanie1/pl/mateusz/siedlecki/programowanie1/colletions/Lists/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programowanie1/pl/mateusz/siedlecki/programowanie1/colletions/Lists/List.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programowanie1/pl/mateusz/siedlecki/programowanie1/colletions/Lists/List.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/colletions/Lists/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/colletions/Lists/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/colletions/Lists/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/colletions/Lists/List.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

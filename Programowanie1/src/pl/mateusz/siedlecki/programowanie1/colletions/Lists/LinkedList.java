@@ -15,9 +15,19 @@ public class LinkedList<T> implements List<T> {
         list.addAfter(200, 4);
         Object[] lista = list.asArray();
 
-        for (Object integer : lista){
-            System.out.print(integer+", ");
+        for (Object integer : lista) {
+            System.out.print(integer + ", ");
         }
+        list.remove(6);
+
+        System.out.println();
+        lista = list.asArray();
+        for (Object integer : lista) {
+            System.out.print(integer + ", ");
+        }
+
+        System.out.println();
+        System.out.println(list.getAt(5));
     }
 
 
@@ -50,7 +60,7 @@ public class LinkedList<T> implements List<T> {
 
     @Override
     public void addAfter(T v, int index) {
-        if (index<size){
+        if (index < size) {
             Node<T> tNode = new Node<>(v);
             Node<T> nodeBeforeTNode = findByIndex(index);
 
@@ -62,18 +72,18 @@ public class LinkedList<T> implements List<T> {
 
             size++;
 
-        }else{
+        } else {
             add(v);
         }
 
 
     }
 
-    public Node<T> findByIndex(int index){
+    private Node<T> findByIndex(int index) {
         int i = 0;
         Node<T> buffor = null;
-        for (Node<T> a = first; i<index ;a = a.getNext()){
-            buffor=a;
+        for (Node<T> a = first; i < index; a = a.getNext()) {
+            buffor = a;
             i++;
         }
 
@@ -89,22 +99,43 @@ public class LinkedList<T> implements List<T> {
     }
 
     @Override
-    public void remove(T v) {
+    public void remove(int index) {
+        if (index == 1 && size == 1) {
+            first = null;
+            last = null;
+            size--;
+        } else if (index == 1 && size > 1) {
+            removeFirst();
+        } else if (index == size) {
+            removeLast();
+        } else if (index < size) {
+            Node<T> nodeToRemove = findByIndex(index);
 
+            nodeToRemove.getPrevious().setNext(nodeToRemove.getNext());
+            nodeToRemove.getNext().setPrevious(nodeToRemove.getPrevious());
+            size--;
+        }
     }
 
     @Override
     public void removeFirst() {
-
+        first = first.getNext();
+        first.setPrevious(null);
+        size--;
     }
 
     @Override
     public void removeLast() {
-
+        last = last.getPrevious();
+        last.setNext(null);
+        size--;
     }
 
     @Override
     public T getAt(int index) {
+        if(index<=size){
+            return findByIndex(index).getValue();
+        }
         return null;
     }
 
@@ -115,7 +146,7 @@ public class LinkedList<T> implements List<T> {
         }
         Object[] tab = new Object[size];
         int i = 0;
-        for (Node<T> x = first; x !=null; x = x.getNext()){
+        for (Node<T> x = first; x != null; x = x.getNext()) {
             tab[i++] = x.getValue();
         }
         return tab;
