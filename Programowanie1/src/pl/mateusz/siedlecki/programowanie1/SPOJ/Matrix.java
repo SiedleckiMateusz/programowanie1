@@ -1,4 +1,4 @@
-package pl.mateusz.siedlecki.programowanie1.Sortowanie;
+package pl.mateusz.siedlecki.programowanie1.SPOJ;
 
 import java.io.BufferedReader;
 import java.io.IOException;
