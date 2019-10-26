@@ -3,7 +3,7 @@ package pl.mateusz.siedlecki.programowanie1.SPOJ;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class Dodawanie {
+public class Dodawanie{
 
 
     public static void main(String[] args)throws Exception {
