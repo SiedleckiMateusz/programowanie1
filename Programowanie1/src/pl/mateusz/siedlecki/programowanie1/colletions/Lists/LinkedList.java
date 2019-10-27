@@ -119,16 +119,30 @@ public class LinkedList<T> implements List<T> {
 
     @Override
     public void removeFirst() {
-        first = first.getNext();
-        first.setPrevious(null);
-        size--;
+        if(size>1){
+            first = first.getNext();
+            first.setPrevious(null);
+            size--;
+        }else{
+            first = null;
+            last = null;
+            size--;
+        }
+
     }
 
     @Override
     public void removeLast() {
-        last = last.getPrevious();
-        last.setNext(null);
-        size--;
+        if(size>1){
+            last = last.getPrevious();
+            last.setNext(null);
+            size--;
+        }else{
+            first = null;
+            last = null;
+            size--;
+        }
+
     }
 
     @Override
