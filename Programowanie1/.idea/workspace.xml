@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b130b2d-c2a1-4591-80dc-70c823a3515f" name="Default Changelist" comment="Update for changes">
-      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/AgregacjaIKompozycja/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/AgregacjaIKompozycja/BankAccount2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/AgregacjaIKompozycja/Credit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/AgregacjaIKompozycja/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/Polimorfizm/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/Polimorfizm/Hospital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/Polimorfizm/HospitalApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/Polimorfizm/Nurse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/Polimorfizm/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programowanie1/pl/mateusz/siedlecki/programowanie1/Search/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programowanie1/pl/mateusz/siedlecki/programowanie1/Search/BinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programowanie1/pl/mateusz/siedlecki/programowanie1/JavaStart/BankAccount.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,20 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Bank">
-    <configuration name="ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.colletions.Lists.ArrayList" />
-      <module name="Programowanie1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.colletions.Lists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.HospitalApp">
     <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.JavaStart.AgregacjaIKompozycja.Bank" />
       <module name="Programowanie1" />
@@ -93,6 +81,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HospitalApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.JavaStart.Polimorfizm.HospitalApp" />
+      <module name="Programowanie1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.JavaStart.Polimorfizm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.Search.LinearSearch" />
       <module name="Programowanie1" />
@@ -108,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HospitalApp" />
         <item itemvalue="Application.Bank" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.LinearSearch" />
         <item itemvalue="Application.BinaryTree" />
-        <item itemvalue="Application.ArrayList" />
       </list>
     </recent_temporary>
   </component>
