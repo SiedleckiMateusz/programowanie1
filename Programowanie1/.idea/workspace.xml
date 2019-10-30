@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b130b2d-c2a1-4591-80dc-70c823a3515f" name="Default Changelist" comment="Update for changes">
-      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/Polimorfizm/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/Polimorfizm/Hospital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/Polimorfizm/HospitalApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/Polimorfizm/Nurse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/Polimorfizm/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/Stringi/Stringi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/TypWyliczeniowyEnum/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/TypWyliczeniowyEnum/Pizzeria.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programowanie1/pl/mateusz/siedlecki/programowanie1/JavaStart/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programowanie1/pl/mateusz/siedlecki/programowanie1/JavaStart/Polimorfizm/HospitalApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programowanie1/pl/mateusz/siedlecki/programowanie1/JavaStart/Polimorfizm/HospitalApp.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -41,7 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HospitalApp">
+  <component name="RunManager" selected="Application.Stringi">
     <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.JavaStart.AgregacjaIKompozycja.Bank" />
       <module name="Programowanie1" />
@@ -68,19 +67,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.colletions.Trees.BinaryTree" />
-      <module name="Programowanie1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.colletions.Trees.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="HospitalApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.JavaStart.Polimorfizm.HospitalApp" />
       <module name="Programowanie1" />
@@ -94,12 +80,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.Search.LinearSearch" />
+    <configuration name="Pizzeria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.JavaStart.TypWyliczeniowyEnum.Pizzeria" />
       <module name="Programowanie1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.Search.*" />
+          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.JavaStart.TypWyliczeniowyEnum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stringi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.JavaStart.Stringi.Stringi" />
+      <module name="Programowanie1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.JavaStart.Stringi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Stringi" />
+        <item itemvalue="Application.Pizzeria" />
         <item itemvalue="Application.HospitalApp" />
         <item itemvalue="Application.Bank" />
         <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.LinearSearch" />
-        <item itemvalue="Application.BinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -186,6 +185,11 @@
           <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/SPOJ/Wiatraczek.java</url>
           <line>25</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/Stringi/Stringi.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
