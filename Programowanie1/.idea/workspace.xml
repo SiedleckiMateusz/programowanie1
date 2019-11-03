@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b130b2d-c2a1-4591-80dc-70c823a3515f" name="Default Changelist" comment="Update for changes">
-      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/Stringi/Stringi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/TypWyliczeniowyEnum/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/TypWyliczeniowyEnum/Pizzeria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/TypyAbstrakcyjne/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/TypyAbstrakcyjne/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/TypyAbstrakcyjne/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/TypyAbstrakcyjne/ShapeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/TypyAbstrakcyjne/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/Wyjatki/Calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/Wyjatki/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/Wyjatki/UnknowOperatorExeption.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programowanie1/pl/mateusz/siedlecki/programowanie1/JavaStart/Polimorfizm/HospitalApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programowanie1/pl/mateusz/siedlecki/programowanie1/JavaStart/Polimorfizm/HospitalApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programowanie1/pl/mateusz/siedlecki/programowanie1/JavaStart/Stringi/Stringi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programowanie1/pl/mateusz/siedlecki/programowanie1/JavaStart/Stringi/Stringi.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -40,26 +45,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Stringi">
-    <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.JavaStart.AgregacjaIKompozycja.Bank" />
+  <component name="RunManager" selected="Application.ShapeCalculator">
+    <configuration name="Calculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.JavaStart.Wyjatki.Calculate" />
       <module name="Programowanie1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.JavaStart.AgregacjaIKompozycja.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.Search.BinarySearch" />
-      <module name="Programowanie1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.Search.*" />
+          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.JavaStart.Wyjatki.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,6 +85,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ShapeCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.JavaStart.TypyAbstrakcyjne.ShapeCalculator" />
+      <module name="Programowanie1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.JavaStart.TypyAbstrakcyjne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Stringi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.JavaStart.Stringi.Stringi" />
       <module name="Programowanie1" />
@@ -108,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShapeCalculator" />
+        <item itemvalue="Application.Calculate" />
         <item itemvalue="Application.Stringi" />
         <item itemvalue="Application.Pizzeria" />
         <item itemvalue="Application.HospitalApp" />
-        <item itemvalue="Application.Bank" />
-        <item itemvalue="Application.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
