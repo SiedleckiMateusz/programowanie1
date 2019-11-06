@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b130b2d-c2a1-4591-80dc-70c823a3515f" name="Default Changelist" comment="Update for changes">
-      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/OperacjeNATablicach/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/OperacjeNATablicach/PersonDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/OperacjeNATablicach/TestPersonDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/Rekurencja/Factorion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/Rekurencja/SumNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/TypyGeneryczne/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/TypyGeneryczne/TestGeneric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/TypyOpakowujace/BigInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,7 +23,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1SFcLV891W5mjb9Jy6Q7Xr3Bdu3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SDA Academy\nowe_repozytorium\Programowanie1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SDA Academy\nowe_repozytorium\Programowanie1\src\pl\mateusz\siedlecki\programowanie1" />
+      <recent name="D:\SDA Academy\nowe_repozytorium\Programowanie1\src" />
+      <recent name="D:\SDA Academy\nowe_repozytorium\Programowanie1\src\pl\mateusz\siedlecki\programowanie1\JavaStart\Sety" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -44,13 +51,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestPersonDatabase">
-    <configuration name="BigInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.JavaStart.TypyOpakowujace.BigInteger" />
+  <component name="RunManager" selected="Application.SortUniqeNames">
+    <configuration name="SortNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.JavaStart.InterfejsyComparableComparator.SortNumbers" />
       <module name="Programowanie1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.JavaStart.TypyOpakowujace.*" />
+          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.JavaStart.InterfejsyComparableComparator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factorion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.JavaStart.Rekurencja.Factorion" />
+    <configuration name="SortProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.JavaStart.InterfejsyComparableComparator.SortProduct" />
       <module name="Programowanie1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.JavaStart.Rekurencja.*" />
+          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.JavaStart.InterfejsyComparableComparator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.JavaStart.Rekurencja.SumNumbers" />
+    <configuration name="SortUniqeNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.JavaStart.Sety.SortUniqeNames" />
       <module name="Programowanie1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.JavaStart.Rekurencja.*" />
+          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.JavaStart.Sety.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestGeneric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.JavaStart.TypyGeneryczne.TestGeneric" />
+    <configuration name="SumOfTheNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.JavaStart.Listy.SumOfTheNumbers" />
       <module name="Programowanie1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.JavaStart.TypyGeneryczne.*" />
+          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.JavaStart.Listy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortUniqeNames" />
+        <item itemvalue="Application.SumOfTheNumbers" />
+        <item itemvalue="Application.SortNumbers" />
+        <item itemvalue="Application.SortProduct" />
         <item itemvalue="Application.TestPersonDatabase" />
-        <item itemvalue="Application.TestGeneric" />
-        <item itemvalue="Application.BigInteger" />
-        <item itemvalue="Application.Factorion" />
-        <item itemvalue="Application.SumNumbers" />
       </list>
     </recent_temporary>
   </component>
