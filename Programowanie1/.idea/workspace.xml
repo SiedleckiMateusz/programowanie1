@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -51,13 +51,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SortUniqeNames">
-    <configuration name="SortNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.JavaStart.InterfejsyComparableComparator.SortNumbers" />
+  <component name="RunManager" selected="Application.CompanyApp">
+    <configuration name="CompanyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.JavaStart.Mapy.CompanyApp" />
       <module name="Programowanie1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.JavaStart.InterfejsyComparableComparator.*" />
+          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.JavaStart.Mapy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,8 +65,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.JavaStart.InterfejsyComparableComparator.SortProduct" />
+    <configuration name="NotebookStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.JavaStart.Mapy.NotebookStore" />
+      <module name="Programowanie1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.JavaStart.Mapy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.JavaStart.InterfejsyComparableComparator.SortNumbers" />
       <module name="Programowanie1" />
       <extension name="coverage">
         <pattern>
@@ -104,26 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPersonDatabase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.JavaStart.OperacjeNATablicach.TestPersonDatabase" />
-      <module name="Programowanie1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.JavaStart.OperacjeNATablicach.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CompanyApp" />
+        <item itemvalue="Application.NotebookStore" />
         <item itemvalue="Application.SortUniqeNames" />
         <item itemvalue="Application.SumOfTheNumbers" />
         <item itemvalue="Application.SortNumbers" />
-        <item itemvalue="Application.SortProduct" />
-        <item itemvalue="Application.TestPersonDatabase" />
       </list>
     </recent_temporary>
   </component>
@@ -201,6 +201,19 @@
           <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/Stringi/Stringi.java</url>
           <line>14</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/Mapy/CompanyApp.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/Mapy/CompanyApp.java</url>
+          <line>45</line>
+          <properties class="pl.mateusz.siedlecki.programowanie1.JavaStart.Mapy.CompanyApp" method="createEmployee">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
