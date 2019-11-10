@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3b130b2d-c2a1-4591-80dc-70c823a3515f" name="Default Changelist" comment="Update for changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programowanie1/pl/mateusz/siedlecki/programowanie1/colletions/Lists/ArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programowanie1/pl/mateusz/siedlecki/programowanie1/colletions/Lists/ArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/colletions/Lists/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/colletions/Lists/ArrayList.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -51,13 +53,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CompanyApp">
-    <configuration name="CompanyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.JavaStart.Mapy.CompanyApp" />
+  <component name="RunManager" selected="Application.DwiecyfrySilni">
+    <configuration name="BudkaSuflera" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.SPOJ.BudkaSuflera" />
       <module name="Programowanie1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.JavaStart.Mapy.*" />
+          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.SPOJ.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NotebookStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.JavaStart.Mapy.NotebookStore" />
+    <configuration name="DwiecyfrySilni" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.SPOJ.DwiecyfrySilni" />
       <module name="Programowanie1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.JavaStart.Mapy.*" />
+          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.SPOJ.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.JavaStart.InterfejsyComparableComparator.SortNumbers" />
+    <configuration name="LiczbyPierwsze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.SPOJ.LiczbyPierwsze" />
       <module name="Programowanie1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.JavaStart.InterfejsyComparableComparator.*" />
+          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.SPOJ.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortUniqeNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.JavaStart.Sety.SortUniqeNames" />
+    <configuration name="PobieranieKilkuLini" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.SPOJ.PobieranieKilkuLini" />
       <module name="Programowanie1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.JavaStart.Sety.*" />
+          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.SPOJ.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfTheNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.JavaStart.Listy.SumOfTheNumbers" />
+    <configuration name="SoftEnigma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.SPOJ.SoftEnigma" />
       <module name="Programowanie1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.JavaStart.Listy.*" />
+          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.SPOJ.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CompanyApp" />
-        <item itemvalue="Application.NotebookStore" />
-        <item itemvalue="Application.SortUniqeNames" />
-        <item itemvalue="Application.SumOfTheNumbers" />
-        <item itemvalue="Application.SortNumbers" />
+        <item itemvalue="Application.DwiecyfrySilni" />
+        <item itemvalue="Application.LiczbyPierwsze" />
+        <item itemvalue="Application.PobieranieKilkuLini" />
+        <item itemvalue="Application.SoftEnigma" />
+        <item itemvalue="Application.BudkaSuflera" />
       </list>
     </recent_temporary>
   </component>
@@ -207,6 +209,16 @@
           <line>16</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/SPOJ/BudkaSuflera.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/SPOJ/BudkaSuflera.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/Mapy/CompanyApp.java</url>
           <line>45</line>
@@ -214,6 +226,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/SPOJ/SoftEnigma.java</url>
+          <line>31</line>
+          <properties class="pl.mateusz.siedlecki.programowanie1.SPOJ.SoftEnigma" method="unlockSentence">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

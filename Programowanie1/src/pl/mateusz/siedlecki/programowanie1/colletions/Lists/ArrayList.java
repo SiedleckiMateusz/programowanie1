@@ -9,7 +9,7 @@ public class ArrayList<T> implements List<T> {
     int size = 0;
 
 
-    ArrayList(){
+    public ArrayList(){
         tab = new Object[SIZE];
     }
 
