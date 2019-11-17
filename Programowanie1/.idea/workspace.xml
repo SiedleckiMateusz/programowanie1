@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b130b2d-c2a1-4591-80dc-70c823a3515f" name="Default Changelist" comment="Update for changes">
+    <list default="true" id="bd4ef90f-3231-49ba-9356-d519a85f91d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/CzlowiekIZwierzaki/Animals/TypeOfAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/CzlowiekIZwierzaki/Food/FoodTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/Strumienie/Something.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programowanie1/pl/mateusz/siedlecki/programowanie1/colletions/Lists/ArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programowanie1/pl/mateusz/siedlecki/programowanie1/colletions/Lists/ArrayList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/colletions/Lists/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/colletions/Lists/ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programowanie1/pl/mateusz/siedlecki/programowanie1/SPOJ/DwiecyfrySilni.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programowanie1/pl/mateusz/siedlecki/programowanie1/SPOJ/DwiecyfrySilni.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -24,22 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1SFcLV891W5mjb9Jy6Q7Xr3Bdu3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectId" id="1TfS2NlSnDbpCMCGxwPOr4wHYgH" />
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
-  </component>
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\SDA Academy\nowe_repozytorium\Programowanie1" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\SDA Academy\nowe_repozytorium\Programowanie1\src\pl\mateusz\siedlecki\programowanie1" />
-      <recent name="D:\SDA Academy\nowe_repozytorium\Programowanie1\src" />
-      <recent name="D:\SDA Academy\nowe_repozytorium\Programowanie1\src\pl\mateusz\siedlecki\programowanie1\JavaStart\Sety" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -53,13 +42,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DwiecyfrySilni">
-    <configuration name="BudkaSuflera" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.SPOJ.BudkaSuflera" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Something" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.JavaStart.Strumienie.Something" />
       <module name="Programowanie1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.SPOJ.*" />
+          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.JavaStart.Strumienie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,51 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DwiecyfrySilni" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.SPOJ.DwiecyfrySilni" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.CzlowiekIZwierzaki.Test" />
       <module name="Programowanie1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.SPOJ.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LiczbyPierwsze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.SPOJ.LiczbyPierwsze" />
-      <module name="Programowanie1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.SPOJ.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PobieranieKilkuLini" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.SPOJ.PobieranieKilkuLini" />
-      <module name="Programowanie1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.SPOJ.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SoftEnigma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.programowanie1.SPOJ.SoftEnigma" />
-      <module name="Programowanie1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.SPOJ.*" />
+          <option name="PATTERN" value="pl.mateusz.siedlecki.programowanie1.CzlowiekIZwierzaki.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +71,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DwiecyfrySilni" />
-        <item itemvalue="Application.LiczbyPierwsze" />
-        <item itemvalue="Application.PobieranieKilkuLini" />
-        <item itemvalue="Application.SoftEnigma" />
-        <item itemvalue="Application.BudkaSuflera" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Something" />
       </list>
     </recent_temporary>
   </component>
@@ -134,41 +81,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3b130b2d-c2a1-4591-80dc-70c823a3515f" name="Default Changelist" comment="" />
-      <created>1571162728984</created>
+      <changelist id="bd4ef90f-3231-49ba-9356-d519a85f91d2" name="Default Changelist" comment="" />
+      <created>1573849449782</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571162728984</updated>
+      <updated>1573849449782</updated>
     </task>
-    <task id="LOCAL-00001" summary="Dodanie pliku Dodawanie.java">
-      <created>1572073702757</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1572073702757</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Dodanie pliku SelectSort.java">
-      <created>1572079249585</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1572079249585</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Transfer Matrix.java to SPOJ package">
-      <created>1572079464172</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1572079464172</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Update for changes">
-      <created>1572079579550</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1572079579550</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,59 +101,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Dodanie pliku Dodawanie.java" />
-    <MESSAGE value="Dodanie pliku SelectSort.java" />
-    <MESSAGE value="Transfer Matrix.java to SPOJ package" />
-    <MESSAGE value="Update for changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update for changes" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/SPOJ/Wiatraczek.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/Stringi/Stringi.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/Mapy/CompanyApp.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/SPOJ/BudkaSuflera.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/SPOJ/BudkaSuflera.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/Mapy/CompanyApp.java</url>
-          <line>45</line>
-          <properties class="pl.mateusz.siedlecki.programowanie1.JavaStart.Mapy.CompanyApp" method="createEmployee">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/SPOJ/SoftEnigma.java</url>
-          <line>31</line>
-          <properties class="pl.mateusz.siedlecki.programowanie1.SPOJ.SoftEnigma" method="unlockSentence">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
