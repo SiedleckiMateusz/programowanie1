@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd4ef90f-3231-49ba-9356-d519a85f91d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/CzlowiekIZwierzaki/Animals/TypeOfAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/CzlowiekIZwierzaki/Food/FoodTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/programowanie1/JavaStart/Strumienie/Something.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programowanie1/pl/mateusz/siedlecki/programowanie1/SPOJ/DwiecyfrySilni.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programowanie1/pl/mateusz/siedlecki/programowanie1/SPOJ/DwiecyfrySilni.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +25,9 @@
   <component name="ProjectId" id="1TfS2NlSnDbpCMCGxwPOr4wHYgH" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
